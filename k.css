@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+
+input {
+    margin-top: 17px;
+    margin-left: 17px;
+    border-color: grey;
+    height: 20px;
+}
+.Childe {
+    margin-top: 25px;
+}
